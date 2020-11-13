@@ -1,9 +1,13 @@
 body {
-    background-color: #c9c1a9;
+    background-color: #718f8f;
 }
 
 h1 {
-    font-weight: 700;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    text-align: right;
+    padding-top: 60px;
+}
+
+p {
+ font-size: 23px;
 }
