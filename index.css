@@ -1,13 +1,9 @@
 body {
-    background-color: #ccccff;
+    background-color: #60a9bf;
 }
 
 h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: left;
     padding-top: 60px;
 }
 
-p {
- font-size: 23px;
-}
